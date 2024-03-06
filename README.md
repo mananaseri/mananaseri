@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mananaseri
-- 👀 I’m interested in laernin Phyton and MySql. 
+- 👀 I’m interested in learning Phyton and MySql. 
 - 📫 you can reach me by mana.naseri@gmail.com
 
 <!---
